@@ -1,16 +1,16 @@
 # Hi there, I'm Saulo Sena! 👋
 
-### 🚀 About Me (Who are you?)
+### 🚀 About Me
 Currently in my **5th semester of Computer Science** at the University of Fortaleza (Unifor), I am always driven to learn new things and find creative solutions. I enjoy taking on challenges that push me to grow both personally and professionally. I am always open to exploring new areas within tech and diving deep into topics that inspire me to evolve.
 
 ---
 
-### 💼 Current Work (What are you currently working on?)
+### 💼 Current Work 
 I currently work at **Dataprev**, focusing on the **data field**, mainly developing **Business Intelligence (BI)**.
 
 ---
 
-### 🛠️ Toolbox (What tools do you use?)
+### 🛠️ Toolbox 
 Here are the main technologies and tools I use in my day-to-day work:
 
 🖥️ **Languages & Databases:**
@@ -26,14 +26,14 @@ Here are the main technologies and tools I use in my day-to-day work:
 
 ---
 
-### 🎯 Goals & Focus (What are you looking to achieve?)
+### 🎯 Goals & Focus 
 *   Deepen my knowledge in Data Engineering and ETL pipelines.
 *   Explore new large-scale data modeling and visualization tools.
 *   Contribute to open-source projects and expand my professional network.
 
 ---
 
-### 📬 Let's Connect! (How to reach you?)
+### 📬 Let's Connect! 
 Whether you want to talk about data, software development, or exciting new challenges, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulobdsena/)
