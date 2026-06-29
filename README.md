@@ -1,7 +1,7 @@
 # Hi there, I'm Saulo Sena! 👋
 
 ### 🚀 About Me
-Currently in my **5th semester of Computer Science** at the University of Fortaleza (Unifor), I am always driven to learn new things and find creative solutions. I enjoy taking on challenges that push me to grow both personally and professionally. I am always open to exploring new areas within tech and diving deep into topics that inspire me to evolve.
+Currently in my **6th semester of Computer Science** at the University of Fortaleza (Unifor), I am always driven to learn new things and find creative solutions. I enjoy taking on challenges that push me to grow both personally and professionally. I am always open to exploring new areas within tech and diving deep into topics that inspire me to evolve.
 
 ---
 
