@@ -21,11 +21,15 @@ Here are the main technologies and tools I use in my day-to-day work:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 📊 **Business Intelligence:**
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)
+
+---
+
+### 📊 My Github Stats
+Aqui estão as linguagens que mais utilizo nos meus repositórios do GitHub:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulobdsena&layout=compact&langs_count=7&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
