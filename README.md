@@ -29,7 +29,7 @@ Here are the main technologies and tools I use in my day-to-day work:
 ### 📊 My GitHub Stats
 Here are the languages I use the most across my GitHub repositories:
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saulobdsena&layout=compact&langs_count=7&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=saulobdsena&layout=compact&langs_count=7&theme=tokyonight&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
